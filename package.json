@@ -62,6 +62,6 @@
     "rollup-plugin-node-resolve": "^5.2.0"
   },
   "dependencies": {
-    "ua-parser-js": "github:faisalman/ua-parser-js#develop"
+    "ua-parser-js": "github:kNoAPP/ua-parser-js#develop"
   }
 }
